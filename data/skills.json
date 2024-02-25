@@ -1,0 +1,14 @@
+[
+    {
+        "grouping": "Architecture & Concepts",
+        "skills":[ "OOP", "RestAPI", "DNS", "Agile", "SSH" ]
+    },
+    {
+        "grouping": "Languages, Operating Systems & Tools",
+        "skills":[ "Java","Python","Git","C/C++","Linux","bash","Jira","MySQL","Javascript (React)"]
+    },
+    {
+        "grouping": "Platform Development & Administration",
+        "skills":[ "AWS","Jenkins","Azure" ]
+    }
+  ]

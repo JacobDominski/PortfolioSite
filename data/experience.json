@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Software Developer in Test I",
+        "company":"CWIE Holding",
+        "summary":"\n- Developed automated test cases to validate API, Webhook, Front End, and Back End components that saves 8 hours of manual labor every day\n- Creating Jenkins jobs to be ran for server upgrades and patching to meet PCI requirements and vulnerability fixes\n- Refactored existing java codebase to a new framework to improve the design, structure and implementation of all the automated test cases\n- Collaborated with multiple teams on projects developing and updating test suites\n- Troubleshooting and debugging test case failures to improve operability for other QA teams\n- Familiarity with backend services via ssh in a linux environment including navigating, troubleshooting and a verification of processes",
+        "range":"September 2021 - April 2023"
+    },
+    {
+        "role":"GameSafe Intern",
+        "company":"Perimeter 83",
+        "summary":"\n- Built the registration page for their website that creates and stores users with Cognito in AWS\n- Set up game servers that log player chat using RESTful API\n- Data labeling of messages in AWS for the machine learning algorithm\n- Developed an application to automate the logging of Discord chats\n- Completed unit and integration testing with connecting and deploying servers",
+        "range":"May 2021 - August 2021"
+    },
+    {
+        "role":"Lead Sensei",
+        "company":"Code Ninjas Chandler",
+        "summary":"\n- Taught kids computer programming and robotics (live and online) at BASIS Chandler Primary North and at Code Ninjas Chandler\n- Evaluated employee skills and knowledge regularly, training, and mentoring individuals with lagging skills\n- Create and improve curriculum for students\n- Assisted students and employees in debugging code\n- Lead one week camps for kids to learn about new technologies",
+        "range":"December 2018 - September 2021"
+    }
+]
