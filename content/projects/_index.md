@@ -1,0 +1,1 @@
+This section contains projects created to by Jacob Dominski. Everything listed is an open source effort, the distinction is only my role as owner.

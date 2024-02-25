@@ -1,0 +1,1 @@
+A collection of projects authored by Jacob Dominski, and likely shared out with the community as an open source project.
